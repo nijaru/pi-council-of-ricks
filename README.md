@@ -7,13 +7,13 @@ Each reviewer runs as an isolated pi process with fresh context — no shared co
 ## Install
 
 ```bash
-pi install git:github.com/nijaru/council-of-ricks
+pi install git:github.com/nijaru/pi-council-of-ricks
 ```
 
 Or symlink for local development:
 
 ```bash
-ln -sf ~/github/nijaru/council-of-ricks ~/.pi/agent/extensions/council-of-ricks
+ln -sf ~/github/nijaru/pi-council-of-ricks ~/.pi/agent/extensions/pi-council-of-ricks
 ```
 
 ## Usage

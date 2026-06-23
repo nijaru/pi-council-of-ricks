@@ -1,5 +1,5 @@
 {
-  "name": "council-of-ricks",
+  "name": "pi-council-of-ricks",
   "version": "0.1.0",
   "description": "Parallel independent reviewers for pi — spawn focused review agents for second opinions",
   "keywords": ["pi-package", "pi-extension"],
